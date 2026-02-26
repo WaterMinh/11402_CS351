@@ -1,1 +1,2 @@
 # 11402_CS351
+AI-assisted Software Development focuses on using modern AI tools to plan, implement, test, debug, and document software more effectively. The course covers prompt engineering, AI-augmented coding workflows, code review, refactoring, and responsible use of AI in real-world development. It emphasizes practical projects and best practices for integrating AI into the software lifecycle.
