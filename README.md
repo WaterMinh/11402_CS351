@@ -1,2 +1,22 @@
 # 11402_CS351
-AI-assisted Software Development focuses on using modern AI tools to plan, implement, test, debug, and document software more effectively. The course covers prompt engineering, AI-augmented coding workflows, code review, refactoring, and responsible use of AI in real-world development. It emphasizes practical projects and best practices for integrating AI into the software lifecycle.
+# CS351 Coursework
+
+This repository contains assignments for the CS351 course.
+
+## 📌 Related Project
+
+For the Smart File Organizer project (Python), see:
+👉 https://github.com/WaterMinh/smart-file-organizer
+
+## 🧠 Description
+
+This course includes multiple projects in C++ and Python.
+
+- Project 0 (C++): Basic implementation
+- Smart File Organizer (Python): File sorting system by type
+
+## 🚀 Skills
+
+- C++
+- Python
+- Git & GitHub workflow (branch, PR, merge)
