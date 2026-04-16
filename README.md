@@ -11,16 +11,9 @@
 
 ```
 11402_CS351/
-│
 ├── Project0/
-│   └── C++ basic implementation
-│
 ├── ProjectB/
-│   └── Main project files
-│
 ├── docs/
-│   └── Reports / notes
-│
 └── README.md
 ```
 
