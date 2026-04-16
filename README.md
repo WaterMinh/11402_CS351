@@ -1,22 +1,53 @@
 # 11402_CS351
-# CS351 Coursework
 
-This repository contains assignments for the CS351 course.
+## 📘 Course Information
+- Course: CS351
+- Semester: 11402
+- Student: Minh Ly
 
-## 📌 Related Project
+---
 
-For the Smart File Organizer project (Python), see:
-👉 https://github.com/WaterMinh/smart-file-organizer
+## 📂 Repository Structure
+11402_CS351/
+│
+├── Project0/
+│ └── C++ basic implementation
+│
+├── ProjectB/
+│ └── Main project files
+│
+├── docs/
+│ └── Reports / notes
+│
+└── README.md
+
+---
+
+
+---
 
 ## 🧠 Description
+This repository contains all coursework for the CS351 class, including programming assignments and projects.
 
-This course includes multiple projects in C++ and Python.
+---
 
-- Project 0 (C++): Basic implementation
-- Smart File Organizer (Python): File sorting system by type
+## 🚀 Projects
 
-## 🚀 Skills
+### 🔹 Project 0 (C++)
+Basic implementation and foundational exercises.
 
+### 🔹 Project B
+Main course project (details will be added).
+
+---
+
+## 🛠 Skills
 - C++
 - Python
-- Git & GitHub workflow (branch, PR, merge)
+- Git & GitHub workflow
+
+---
+
+## 📌 Notes
+- All work is organized by project.
+- Commit history reflects development progress.
