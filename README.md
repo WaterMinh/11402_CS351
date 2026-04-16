@@ -8,20 +8,21 @@
 ---
 
 ## 📂 Repository Structure
+
+```
 11402_CS351/
 │
 ├── Project0/
-│ └── C++ basic implementation
+│   └── C++ basic implementation
 │
 ├── ProjectB/
-│ └── Main project files
+│   └── Main project files
 │
 ├── docs/
-│ └── Reports / notes
+│   └── Reports / notes
 │
 └── README.md
-
----
+```
 
 
 ---
