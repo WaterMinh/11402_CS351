@@ -18,20 +18,21 @@
 ```
 
 
+
 ---
 
 ## 🧠 Description
-This repository contains all coursework for the CS351 class, including programming assignments and projects.
+This repository contains all coursework, assignments, and projects for the CS351 course.
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Project 0 (C++)
-Basic implementation and foundational exercises.
+Basic implementation and foundational programming exercises.
 
 ### 🔹 Project B
-Main course project (details will be added).
+Main course project involving system design and implementation.
 
 ---
 
@@ -43,5 +44,5 @@ Main course project (details will be added).
 ---
 
 ## 📌 Notes
-- All work is organized by project.
+- All materials are organized by project.
 - Commit history reflects development progress.
