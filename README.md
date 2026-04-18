@@ -30,9 +30,14 @@ This repository contains all coursework, assignments, and projects for the CS351
 
 ### 🔹 Project 0 (C++)
 Basic implementation and foundational programming exercises.
+## 🔗 Project Links
+https://github.com/WaterMinh/11402_CS351_Project0
+- Project B: To be added
 
 ### 🔹 Project B
 Main course project involving system design and implementation.
+## 🔗 Project Links
+- Project B: To be added
 
 ---
 
