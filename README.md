@@ -1,6 +1,6 @@
-# CS351 — Software Engineering (Spring 2026)
+# CS351 — AI-Assisted Software Development (Spring 2026)
 
-> My complete learning journey for **CS351 – Software Engineering** at Yuan Ze University.
+> My complete learning journey for **CS351 – AI-Assisted Software Development** at Yuan Ze University.
 
 This repository contains my lecture notes, handwritten notes, software engineering projects, testing documentation, GitHub workflow practice, and weekly reflections throughout the semester.
 
